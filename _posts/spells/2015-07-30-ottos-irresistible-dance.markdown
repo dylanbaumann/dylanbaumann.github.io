@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.264
 tags: [bard, wizard, level6, enchantment]
 categories:
--spells
+- spells
 ---
 
 **6th-level enchantment**

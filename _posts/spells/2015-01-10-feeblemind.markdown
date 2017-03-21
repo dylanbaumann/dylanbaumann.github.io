@@ -5,7 +5,7 @@ date: 2015-01-10
 source: PHB.239
 tags: [bard, druid, warlock, wizard, level8, enchantment]
 categories:
--spells
+- spells
 ---
 
 **8th-level enchantment**

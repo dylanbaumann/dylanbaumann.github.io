@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.260
 tags: [druid (coast), paladin (ancients), paladin (vengeance), sorcerer, warlock, wizard, level2, conjuration]
 categories:
--spells
+- spells
 ---
 
 **2nd-level conjuration**

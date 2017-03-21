@@ -5,7 +5,7 @@ date:   2015-01-09
 source: PHB.215
 tags:   [cleric, warlock, wizard, level9, necromancy]
 categories:
--spells
+- spells
 ---
 
 **9th-level necromancy**

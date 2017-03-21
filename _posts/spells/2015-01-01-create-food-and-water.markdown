@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.229
 tags: [cleric, druid (desert), paladin, level3, conjuration]
 categories:
--spells
+- spells
 ---
 
 **3rd-level conjuration**

@@ -5,7 +5,7 @@ date:   2015-01-02
 source: PHB.278
 tags: [cleric, paladin (crown), level3, conjuration]
 categories:
--spells
+- spells
 ---
 
 **3rd-level conjuration**

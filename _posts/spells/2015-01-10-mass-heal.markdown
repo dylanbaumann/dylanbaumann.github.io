@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.258
 tags:   [cleric, level9, evocation]
 categories:
--spells
+- spells
 ---
 
 **9th-level evocation**

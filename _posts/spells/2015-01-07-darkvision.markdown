@@ -5,7 +5,7 @@ date:   2015-01-07
 source: PHB.230
 tags: [druid, monk (shadow), ranger, sorcerer, wizard, level2, transmutation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level transmutation**

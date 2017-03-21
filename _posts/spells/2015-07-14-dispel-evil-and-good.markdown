@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.233
 tags: [cleric, paladin, level5, abjuration]
 categories:
--spells
+- spells
 ---
 
 **5th-level abjuration**

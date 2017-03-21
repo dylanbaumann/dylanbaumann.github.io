@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.248
 tags: [cleric (tempest), druid, monk (four elements), sorcerer, wizard, level2, evocation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level evocation**

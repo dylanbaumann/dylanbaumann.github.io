@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.271
 tags: [cleric (death), warlock, wizard, level2, necromancy]
 categories:
--spells
+- spells
 ---
 
 **2nd-level necromancy**

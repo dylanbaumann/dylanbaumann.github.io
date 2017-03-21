@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.267
 tags:   [wizard, level9, abjuration]
 categories:
--spells
+- spells
 ---
 
 **9th-level abjuration**

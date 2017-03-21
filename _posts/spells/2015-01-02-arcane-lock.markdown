@@ -5,7 +5,7 @@ date:   2015-01-02
 source: PHB.215
 tags: [wizard, level2, abjuration]
 categories:
--spells
+- spells
 ---
 
 **2nd-level abjuration**

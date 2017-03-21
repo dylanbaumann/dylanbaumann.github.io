@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.256
 tags: [bard, cleric, druid, paladin, ranger, wizard, level2, divination]
 categories:
--spells
+- spells
 ---
 
 **2nd-level divination**

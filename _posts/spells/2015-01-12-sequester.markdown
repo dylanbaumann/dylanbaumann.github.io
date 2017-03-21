@@ -5,7 +5,7 @@ date:   2015-01-12
 source: PHB.274
 tags:   [wizard, level7, transmutation]
 categories:
--spells
+- spells
 ---
 
 **7th-level transmutation**

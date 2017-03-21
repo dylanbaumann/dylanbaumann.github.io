@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.222
 tags: [bard, sorcerer, warlock, wizard, level2, conjuration]
 categories:
--spells
+- spells
 ---
 
 **2nd-level conjuration**

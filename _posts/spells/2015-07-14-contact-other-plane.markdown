@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.226
 tags: [warlock, wizard, level5, ritual, divination]
 categories:
--spells
+- spells
 ---
 
 **5th-level divination (ritual)**

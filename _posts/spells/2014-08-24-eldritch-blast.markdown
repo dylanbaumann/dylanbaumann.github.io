@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.237
 tags: [warlock, cantrip, evocation]
 categories:
--spells
+- spells
 ---
 
 **Evocation cantrip**

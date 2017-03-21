@@ -5,7 +5,7 @@ date:   2015-11-19
 source: EE.19
 tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 categories:
--spells
+- spells
 ---
 
 **6th-level transmutation**

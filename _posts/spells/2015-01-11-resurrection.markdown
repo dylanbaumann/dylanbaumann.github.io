@@ -5,7 +5,7 @@ date:   2015-01-11
 source: PHB.272
 tags:   [bard, cleric, druid, level7, necromancy]
 categories:
--spells
+- spells
 ---
 
 **7th-level necromancy**

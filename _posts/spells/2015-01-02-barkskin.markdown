@@ -5,7 +5,7 @@ date:   2015-01-02
 source: PHB.217
 tags: [cleric (nature), druid, ranger, level2, transmutation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level transmutation**

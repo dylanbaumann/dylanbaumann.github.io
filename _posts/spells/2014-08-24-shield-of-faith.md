@@ -6,7 +6,7 @@ source: PHB.275
 tags: [cleric, paladin, level1, abjuration]
 
 categories:
--spells
+- spells
 ---
 
 **1st-level abjuration**

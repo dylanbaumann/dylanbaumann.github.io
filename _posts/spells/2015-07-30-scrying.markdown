@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.273
 tags: [bard, cleric, druid, paladin (devotion), paladin (vengeance), warlock, wizard, level5, divination]
 categories:
--spells
+- spells
 ---
 
 **5th-level divination**

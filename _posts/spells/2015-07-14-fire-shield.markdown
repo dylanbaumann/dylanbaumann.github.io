@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.241
 tags: [warlock (fiend), wizard, level4, evocation]
 categories:
--spells
+- spells
 ---
 
 **4th-level evocation**

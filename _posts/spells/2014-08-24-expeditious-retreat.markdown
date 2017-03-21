@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.238
 tags: [sorcerer, warlock, wizard, level1, transmutation]
 categories:
--spells
+- spells
 ---
 
 **1st-level transmutation**

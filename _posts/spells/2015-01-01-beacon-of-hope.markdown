@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.217
 tags: [cleric, paladin (devotion), level3, abjuration]
 categories:
--spells
+- spells
 ---
 
 **3rd-level abjuration**

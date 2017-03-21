@@ -5,7 +5,7 @@ date:   2014-12-31
 source: PHB.219
 tags: [bard, cleric, sorcerer, warlock (fiend), warlock (undying), wizard, level2, necromancy]
 categories:
--spells
+- spells
 ---
 
 **2nd-level necromancy**

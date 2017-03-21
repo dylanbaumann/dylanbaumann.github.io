@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.227
 tags: [wizard, level6, evocation]
 categories:
--spells
+- spells
 ---
 
 **6th-level evocation**

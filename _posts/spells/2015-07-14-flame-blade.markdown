@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.242
 tags: [druid, level2, evocation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level evocation**

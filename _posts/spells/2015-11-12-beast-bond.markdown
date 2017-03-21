@@ -5,7 +5,7 @@ date:   2015-11-12
 source: EE.15
 tags: [druid, ranger, level1, divination]
 categories:
--spells
+- spells
 ---
 
 **1st-level divination**

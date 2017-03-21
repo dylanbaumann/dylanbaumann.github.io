@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.265
 tags: [wizard, level4, illusion]
 categories:
--spells
+- spells
 ---
 
 **4th-level illusion**

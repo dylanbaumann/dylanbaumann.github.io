@@ -5,7 +5,7 @@ date:   2015-07-14
 source: PHB.235
 tags: [wizard, level6, ritual, conjuration]
 categories:
--spells
+- spells
 ---
 
 **6th-level conjuration (ritual)**

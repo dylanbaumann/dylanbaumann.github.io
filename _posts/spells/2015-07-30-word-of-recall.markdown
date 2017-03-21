@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.289
 tags: [cleric, level6, conjuration]
 categories:
--spells
+- spells
 ---
 
 **6th-level conjuration**

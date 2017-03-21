@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.284
 tags: [bard, warlock, wizard, level1, ritual, conjuration]
 categories:
--spells
+- spells
 ---
 
 **1st-level conjuration (ritual)**

@@ -5,7 +5,7 @@ date:   2015-11-20
 source: EE.22
 tags: [sorcerer, wizard, level4, evocation]
 categories:
--spells
+- spells
 ---
 
 **4th-level evocation**

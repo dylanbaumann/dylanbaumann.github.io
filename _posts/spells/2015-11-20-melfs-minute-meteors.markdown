@@ -5,7 +5,7 @@ date:   2015-11-20
 source: EE.20
 tags: [sorcerer, wizard, level3, evocation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level evocation**

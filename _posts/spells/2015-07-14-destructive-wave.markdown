@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.231
 tags: [cleric (tempest), paladin, level5, evocation]
 categories:
--spells
+- spells
 ---
 
 **5th-level evocation**

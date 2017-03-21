@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.276
 tags: [bard, sorcerer, wizard, level1, illusion]
 categories:
--spells
+- spells
 ---
 
 **1st-level illusion**

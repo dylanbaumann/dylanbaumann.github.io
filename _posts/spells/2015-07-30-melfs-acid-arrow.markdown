@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.259
 tags: [druid (swamp), wizard, level2, evocation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level evocation**

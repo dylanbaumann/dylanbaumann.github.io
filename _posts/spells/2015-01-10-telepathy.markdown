@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.281
 tags:   [wizard, level8, evocation]
 categories:
--spells
+- spells
 ---
 
 **8th-level evocation**

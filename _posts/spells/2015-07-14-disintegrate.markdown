@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.233
 tags: [sorcerer, wizard, level6, transmutation]
 categories:
--spells
+- spells
 ---
 
 **6th-level transmutation**

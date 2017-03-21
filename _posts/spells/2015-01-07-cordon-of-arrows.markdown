@@ -5,7 +5,7 @@ date:   2015-01-07
 source: PHB.228
 tags: [ranger, level2, transmutation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level transmutation**

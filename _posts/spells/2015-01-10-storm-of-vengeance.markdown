@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.279
 tags:   [druid, level9, conjuration]
 categories:
--spells
+- spells
 ---
 
 **9th-level conjuration**

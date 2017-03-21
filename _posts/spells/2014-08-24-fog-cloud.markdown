@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.243
 tags: [cleric (tempest), druid, ranger, sorcerer, wizard, level1, conjuration]
 categories:
--spells
+- spells
 ---
 
 **1st-level conjuration**

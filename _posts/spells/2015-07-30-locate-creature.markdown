@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.256
 tags: [bard, cleric, druid, paladin, ranger, wizard, level4, divination]
 categories:
--spells
+- spells
 ---
 
 **4th-level divination**

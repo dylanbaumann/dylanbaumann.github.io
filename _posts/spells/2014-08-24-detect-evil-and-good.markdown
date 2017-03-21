@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.231
 tags: [cleric, paladin, level1, divination]
 categories:
--spells
+- spells
 ---
 
 **1st-level divination**

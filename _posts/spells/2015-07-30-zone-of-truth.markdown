@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.289
 tags: [bard, cleric, paladin, level2, enchantment]
 categories:
--spells
+- spells
 ---
 
 **2nd-level enchantment**

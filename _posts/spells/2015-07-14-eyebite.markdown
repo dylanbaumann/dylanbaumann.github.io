@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.238
 tags: [bard, sorcerer, warlock, wizard, level6, necromancy]
 categories:
--spells
+- spells
 ---
 
 **6th-level necromancy**

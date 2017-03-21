@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.262
 tags: [wizard, level4, abjuration]
 categories:
--spells
+- spells
 ---
 
 **4th-level abjuration**

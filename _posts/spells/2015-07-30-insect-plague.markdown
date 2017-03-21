@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.254
 tags: [cleric, druid, sorcerer, level5, conjuration]
 categories:
--spells
+- spells
 ---
 
 **5th-level conjuration**

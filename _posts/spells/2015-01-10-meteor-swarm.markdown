@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.259
 tags:   [sorcerer, wizard, level9, evocation]
 categories:
--spells
+- spells
 ---
 
 **9th-level evocation**

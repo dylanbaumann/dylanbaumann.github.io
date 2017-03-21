@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.270
 tags: [cleric, paladin, warlock, wizard, level1, abjuration]
 categories:
--spells
+- spells
 ---
 
 **1st-level abjuration**

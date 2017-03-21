@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.245
 tags: [bard, cleric, wizard, level3, abjuration]
 categories:
--spells
+- spells
 ---
 
 **3rd-level abjuration**

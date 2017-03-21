@@ -5,7 +5,7 @@ date:   2015-01-11
 source: PHB.261
 tags:   [bard, wizard, level7, conjuration]
 categories:
--spells
+- spells
 ---
 
 **7th-level conjuration**

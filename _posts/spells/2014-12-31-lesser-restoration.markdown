@@ -5,7 +5,7 @@ date:   2014-12-31
 source: PHB.255
 tags: [bard, cleric, druid, paladin, ranger, level2, abjuration]
 categories:
--spells
+- spells
 ---
 
 **2nd-level abjuration**

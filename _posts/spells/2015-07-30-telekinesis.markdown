@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.280
 tags: [sorcerer, warlock (great old one), wizard, level5, transmutation]
 categories:
--spells
+- spells
 ---
 
 **5th-level transmutation**

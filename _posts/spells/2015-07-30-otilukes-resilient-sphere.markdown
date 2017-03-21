@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.264
 tags: [wizard, level4, evocation]
 categories:
--spells
+- spells
 ---
 
 **4th-level evocation**

@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.252
 tags: [cleric (tempest), druid, paladin (ancients), sorcerer, wizard, level4, evocation]
 categories:
--spells
+- spells
 ---
 
 **4th-level evocation**

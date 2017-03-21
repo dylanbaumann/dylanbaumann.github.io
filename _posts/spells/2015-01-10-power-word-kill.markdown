@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.266
 tags:   [bard, sorcerer, warlock, wizard, level9, enchantment]
 categories:
--spells
+- spells
 ---
 
 **9th-level enchantment**

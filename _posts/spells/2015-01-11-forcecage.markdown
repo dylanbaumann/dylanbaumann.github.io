@@ -5,7 +5,7 @@ date: 2015-01-11
 source: PHB.243
 tags: [bard, warlock, wizard, level7, evocation]
 categories:
--spells
+- spells
 ---
 
 **7th-level evocation**

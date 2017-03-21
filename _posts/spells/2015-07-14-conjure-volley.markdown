@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.226
 tags: [ranger, level5, conjuration]
 categories:
--spells
+- spells
 ---
 
 **5th-level conjuration**

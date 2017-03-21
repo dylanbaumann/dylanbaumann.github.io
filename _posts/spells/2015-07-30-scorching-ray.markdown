@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.273
 tags: [cleric (light), sorcerer, warlock (fiend), wizard, level2, evocation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level evocation**

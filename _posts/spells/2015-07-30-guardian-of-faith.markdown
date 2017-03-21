@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.246
 tags: [cleric, paladin (devotion), paladin (crown), level4, conjuration]
 categories:
--spells
+- spells
 ---
 
 **4th-level conjuration**

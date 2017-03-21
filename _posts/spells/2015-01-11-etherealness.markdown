@@ -5,7 +5,7 @@ date:   2015-01-11
 source: PHB.238
 tags:   [bard, cleric, sorcerer, warlock, wizard, level7, transmutation]
 categories:
--spells
+- spells
 ---
 
 **7th-level transmutation**

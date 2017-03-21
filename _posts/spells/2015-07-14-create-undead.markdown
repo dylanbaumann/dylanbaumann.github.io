@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.229
 tags: [cleric, warlock, wizard, level6, necromancy]
 categories:
--spells
+- spells
 ---
 
 **6th-level necromancy**

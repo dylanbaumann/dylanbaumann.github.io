@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.283
 tags: [druid, level6, conjuration]
 categories:
--spells
+- spells
 ---
 
 **6th-level conjuration**

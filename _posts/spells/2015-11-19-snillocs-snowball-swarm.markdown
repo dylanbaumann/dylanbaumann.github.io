@@ -5,7 +5,7 @@ date:   2015-11-19
 source: EE.22
 tags: [sorcerer, wizard, level2, evocation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level evocation**

@@ -5,7 +5,7 @@ date:   2015-11-11
 source: EE.16
 tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
 categories:
--spells
+- spells
 ---
 
 **Conjuration cantrip**

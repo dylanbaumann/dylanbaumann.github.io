@@ -5,7 +5,7 @@ date:   2015-11-19
 source: EE.17
 tags: [druid, sorcerer, wizard, level3, transmutation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level transmutation**

@@ -5,7 +5,7 @@ date:   2015-08-31
 source: EE.22
 tags: [bard, druid, sorcerer, warlock, wizard, cantrip, evocation]
 categories:
--spells
+- spells
 ---
 
 **Evocation cantrip**

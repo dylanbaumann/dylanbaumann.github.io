@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.278
 tags: [cleric (war), druid, monk (four elements), paladin (ancients), sorcerer, ranger, wizard, level4, abjuration]
 categories:
--spells
+- spells
 ---
 
 **4th-level abjuration**

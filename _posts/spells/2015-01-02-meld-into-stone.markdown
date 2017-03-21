@@ -5,7 +5,7 @@ date:   2015-01-02
 source: PHB.259
 tags: [cleric, druid, level3, ritual, transmutation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level transmutation (ritual)**

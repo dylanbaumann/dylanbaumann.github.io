@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.255
 tags: [druid (mountain), sorcerer, wizard, level3, evocation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level evocation**

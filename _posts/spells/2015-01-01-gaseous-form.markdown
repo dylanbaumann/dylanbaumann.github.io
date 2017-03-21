@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.244
 tags: [druid (underdark), monk (four elements), sorcerer, wizard, warlock, level3, transmutation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level transmutation**

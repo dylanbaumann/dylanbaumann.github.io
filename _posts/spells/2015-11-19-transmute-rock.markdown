@@ -5,7 +5,7 @@ date:   2015-11-19
 source: EE.22
 tags: [druid, wizard, level5, transmutation]
 categories:
--spells
+- spells
 ---
 
 **5th-level transmutation**

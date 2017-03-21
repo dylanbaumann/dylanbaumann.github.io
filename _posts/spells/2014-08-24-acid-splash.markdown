@@ -6,7 +6,7 @@ tags: [sorcerer, wizard, cantrip, conjuration]
 categories:
 - spells
 categories:
--spells
+- spells
 ---
 
 **Conjuration cantrip**

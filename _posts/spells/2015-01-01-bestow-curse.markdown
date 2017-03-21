@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.218
 tags: [bard, cleric, paladin (oathbreaker), wizard, level3, necromancy]
 categories:
--spells
+- spells
 ---
 
 **3rd-level necromancy**

@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.254
 tags: [bard, cleric, warlock (undying), wizard, level5, divination]
 categories:
--spells
+- spells
 ---
 
 **5th-level divination**

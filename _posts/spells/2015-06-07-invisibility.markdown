@@ -5,7 +5,7 @@ date: 2015-06-07
 source: PHB.254
 tags: [bard, druid (grassland), sorcerer, warlock, wizard, level2, illusion]
 categories:
--spells
+- spells
 ---
 
 **2nd-level illusion**

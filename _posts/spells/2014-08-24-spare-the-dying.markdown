@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.277
 tags: [cleric, cantrip, necromancy]
 categories:
--spells
+- spells
 ---
 
 **Necromancy cantrip**

@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.234
 tags: [cleric (war), paladin, level1, evocation]
 categories:
--spells
+- spells
 ---
 
 **1st-level evocation**

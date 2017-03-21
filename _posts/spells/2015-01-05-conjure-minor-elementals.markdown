@@ -5,7 +5,7 @@ date:   2015-01-05
 source: PHB.226
 tags: [druid, wizard, level4, conjuration]
 categories:
--spells
+- spells
 ---
 
 **4th-level conjuration**

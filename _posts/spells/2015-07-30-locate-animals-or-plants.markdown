@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.256
 tags: [bard, druid, ranger, level2, ritual, divination]
 categories:
--spells
+- spells
 ---
 
 **2nd-level divination (ritual)**

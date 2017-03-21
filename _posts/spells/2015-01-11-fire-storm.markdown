@@ -5,7 +5,7 @@ date:   2015-01-11
 source: PHB.241
 tags:   [cleric, druid, sorcerer, level7, evocation]
 categories:
--spells
+- spells
 ---
 
 **7th-level evocation**

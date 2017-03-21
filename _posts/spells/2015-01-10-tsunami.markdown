@@ -5,7 +5,7 @@ date:   2015-01-10
 source: PHB.284
 tags:   [druid, level8, conjuration]
 categories:
--spells
+- spells
 ---
 
 **8th-level conjuration**

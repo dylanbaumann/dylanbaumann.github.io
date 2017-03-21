@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.267
 tags: [bard, sorcerer, warlock, wizard, cantrip, transmutation]
 categories:
--spells
+- spells
 ---
 
 **Transmutation cantrip**

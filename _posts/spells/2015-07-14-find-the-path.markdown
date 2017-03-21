@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.240
 tags: [bard, cleric, druid, level6, divination]
 categories:
--spells
+- spells
 ---
 
 **6th-level divination**

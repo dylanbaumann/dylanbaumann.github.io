@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.271
 tags: [cleric, paladin, warlock, wizard, level3, abjuration]
 categories:
--spells
+- spells
 ---
 
 **3rd-level abjuration**

@@ -5,7 +5,7 @@ date:   2014-12-31
 source: PHB.267
 tags: [cleric, level2, evocation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level evocation**

@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.231
 tags: [bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, ritual, divination]
 categories:
--spells
+- spells
 ---
 
 **1st-level divination (ritual)**

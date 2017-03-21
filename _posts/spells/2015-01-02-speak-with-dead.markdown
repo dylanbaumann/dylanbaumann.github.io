@@ -5,7 +5,7 @@ date:   2015-01-02
 source: PHB.277
 tags: [bard, cleric, warlock (undying), level3, necromancy]
 categories:
--spells
+- spells
 ---
 
 **3rd-level necromancy**

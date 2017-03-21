@@ -5,7 +5,7 @@ date:   2014-08-24
 source: PHB.257
 tags: [cleric (arcana), sorcerer, wizard, level1, evocation]
 categories:
--spells
+- spells
 ---
 
 **1st-level evocation**

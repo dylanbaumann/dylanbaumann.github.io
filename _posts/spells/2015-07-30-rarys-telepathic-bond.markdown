@@ -5,7 +5,7 @@ date:  2015-07-30
 source: PHB.270
 tags:  [wizard, level5, ritual, divination]
 categories:
--spells
+- spells
 ---
 
 **5th-level divination (ritual)**

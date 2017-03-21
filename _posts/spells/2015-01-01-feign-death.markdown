@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.240
 tags: [bard, cleric, druid, warlock (undying), wizard, level3, ritual, necromancy]
 categories:
--spells
+- spells
 ---
 
 **3rd-level necromancy (ritual)**

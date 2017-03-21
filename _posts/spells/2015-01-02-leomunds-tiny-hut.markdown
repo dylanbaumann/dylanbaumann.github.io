@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.255
 tags: [bard, wizard, level3, ritual, evocation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level evocation (ritual)**

@@ -5,7 +5,7 @@ date: 2015-07-14
 source: PHB.237
 tags: [sorcerer, wizard, level2, transmutation]
 categories:
--spells
+- spells
 ---
 
 **2nd-level transmutation**

@@ -5,7 +5,7 @@ date:   2015-01-11
 source: PHB.234
 tags:   [cleric, level7, evocation]
 categories:
--spells
+- spells
 ---
 
 **7th-level evocation**

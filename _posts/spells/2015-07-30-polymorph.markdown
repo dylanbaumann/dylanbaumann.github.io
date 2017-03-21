@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.266
 tags: [bard, cleric (trickery), druid, sorcerer, wizard, level4, transmutation]
 categories:
--spells
+- spells
 ---
 
 **4th-level transmutation**

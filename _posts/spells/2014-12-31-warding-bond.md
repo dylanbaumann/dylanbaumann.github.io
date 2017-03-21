@@ -5,7 +5,7 @@ date:   2014-12-31
 source: PHB.287
 tags: [cleric, paladin (crown), level2, abjuration]
 categories:
--spells
+- spells
 ---
 
 **2nd-level abjuration**

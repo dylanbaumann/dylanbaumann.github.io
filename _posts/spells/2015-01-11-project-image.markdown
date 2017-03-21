@@ -5,7 +5,7 @@ date:   2015-01-11
 source: PHB.270
 tags:   [bard, wizard, level7, illusion]
 categories:
--spells
+- spells
 ---
 
 **7th-level illusion**

@@ -5,7 +5,7 @@ date:   2015-07-14
 source: PHB.238
 tags: [warlock (great old one), wizard, level4, conjuration]
 categories:
--spells
+- spells
 ---
 
 **4th-level conjuration**

@@ -5,7 +5,7 @@ date:   2015-01-02
 source: PHB.277
 tags: [bard, druid, ranger, level3, transmutation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level transmutation**

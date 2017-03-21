@@ -5,7 +5,7 @@ date:   2015-11-19
 source: EE.23
 tags: [druid, sorcerer, wizard, level3, evocation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level evocation**

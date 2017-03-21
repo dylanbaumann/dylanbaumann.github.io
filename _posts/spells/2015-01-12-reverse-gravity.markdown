@@ -5,7 +5,7 @@ date:   2015-01-12
 source: PHB.272
 tags:   [druid, sorcerer, wizard, level7, transmutation]
 categories:
--spells
+- spells
 ---
 
 **7th-level transmutation**

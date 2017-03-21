@@ -5,7 +5,7 @@ date: 2015-07-30
 source: PHB.264
 tags: [bard, sorcerer, warlock (fae), warlock (great old one), wizard, level2, illusion]
 categories:
--spells
+- spells
 ---
 
 **2nd-level illusion**

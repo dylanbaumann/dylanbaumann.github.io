@@ -5,7 +5,7 @@ date:   2015-01-01
 source: PHB.258
 tags: [cleric, level3, evocation]
 categories:
--spells
+- spells
 ---
 
 **3rd-level evocation**
