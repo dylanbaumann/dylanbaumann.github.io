@@ -4,6 +4,8 @@ title:  "Incendiary Cloud"
 date:   2015-01-10
 source: PHB.253
 tags:   [sorcerer, wizard, level8, conjuration]
+categories:
+-spells
 ---
 
 **8th-level conjuration**

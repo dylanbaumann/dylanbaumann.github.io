@@ -4,6 +4,8 @@ title: "Chain Lightning"
 date: 2015-07-14
 source: PHB.221
 tags: [sorcerer, wizard, level6, evocation]
+categories:
+-spells
 ---
 
 **6th-level evocation**

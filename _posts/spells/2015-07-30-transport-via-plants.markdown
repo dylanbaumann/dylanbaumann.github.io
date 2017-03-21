@@ -4,6 +4,8 @@ title: "Transport via Plants"
 date: 2015-07-30
 source: PHB.283
 tags: [druid, level6, conjuration]
+categories:
+-spells
 ---
 
 **6th-level conjuration**

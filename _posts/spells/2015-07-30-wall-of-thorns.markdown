@@ -4,6 +4,8 @@ title: "Wall of Thorns"
 date: 2015-07-30
 source: PHB.287
 tags: [druid, level6, conjuration]
+categories:
+-spells
 ---
 
 **6th-level conjuration**

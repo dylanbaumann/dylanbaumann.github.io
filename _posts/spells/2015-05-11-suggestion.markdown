@@ -4,6 +4,8 @@ title: "Suggestion"
 date: 2015-05-11
 source: PHB.279
 tags: [bard, cleric (knowledge), sorcerer, warlock, wizard, level2, enchantment]
+categories:
+-spells
 ---
 
 **2nd-level enchantment**

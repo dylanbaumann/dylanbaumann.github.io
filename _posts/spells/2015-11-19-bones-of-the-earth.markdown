@@ -4,6 +4,8 @@ title:  "Bones of the Earth"
 date:   2015-11-19
 source: EE.15
 tags: [druid, level6, transmutation]
+categories:
+-spells
 ---
 
 **6th-level transmutation**

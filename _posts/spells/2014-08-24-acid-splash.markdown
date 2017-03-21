@@ -5,6 +5,8 @@ date:   2014-08-24
 tags: [sorcerer, wizard, cantrip, conjuration]
 categories:
 - spells
+categories:
+-spells
 ---
 
 **Conjuration cantrip**

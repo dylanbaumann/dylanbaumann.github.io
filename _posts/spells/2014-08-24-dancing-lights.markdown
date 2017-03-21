@@ -4,6 +4,8 @@ title:  "Dancing Lights"
 date:   2014-08-24
 source: PHB.230
 tags: [elf (drow), bard, sorcerer, wizard, cantrip, evocation]
+categories:
+-spells
 ---
 
 **Evocation cantrip**

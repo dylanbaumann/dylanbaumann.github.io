@@ -4,6 +4,8 @@ title: "Wall of Ice"
 date: 2015-07-30
 source: PHB.285
 tags: [wizard, level6, evocation]
+categories:
+-spells
 ---
 
 **6th-level evocation**

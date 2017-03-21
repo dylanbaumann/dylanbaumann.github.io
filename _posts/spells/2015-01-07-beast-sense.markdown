@@ -4,6 +4,8 @@ title:  "Beast Sense"
 date:   2015-01-07
 source: PHB.217
 tags: [barbarian (totem warrior), druid, ranger, level2, ritual, divination]
+categories:
+-spells
 ---
 
 **2nd-level divination (ritual)**

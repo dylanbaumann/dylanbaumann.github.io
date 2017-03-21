@@ -4,6 +4,8 @@ title:  "Death Ward"
 date:   2015-01-05
 source: PHB.230
 tags: [cleric, paladin, warlock (undying), level4, abjuration]
+categories:
+-spells
 ---
 
 **4th-level abjuration**

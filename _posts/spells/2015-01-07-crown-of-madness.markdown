@@ -4,6 +4,8 @@ title:  "Crown of Madness"
 date:   2015-01-07
 source: PHB.229
 tags: [bard, paladin (oathbreaker), sorcerer, warlock, wizard, level2, enchantment]
+categories:
+-spells
 ---
 
 **2nd-level enchantment**

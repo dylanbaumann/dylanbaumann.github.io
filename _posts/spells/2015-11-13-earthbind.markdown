@@ -4,6 +4,8 @@ title:  "Earthbind"
 date:   2015-11-13
 source: EE.17
 tags: [druid, sorcerer, warlock, wizard, level2, transmutation]
+categories:
+-spells
 ---
 
 **2nd-level transmutation**

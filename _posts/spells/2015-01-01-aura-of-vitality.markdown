@@ -4,6 +4,8 @@ title:  "Aura Of Vitality"
 date:   2015-01-01
 source: PHB.216
 tags: [paladin, level3, evocation]
+categories:
+-spells
 ---
 
 **3rd-level evocation**

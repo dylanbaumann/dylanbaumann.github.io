@@ -4,6 +4,8 @@ title:  "Cloud of Daggers"
 date:   2015-01-01
 source: PHB.222
 tags: [bard, sorcerer, warlock, wizard, level2, conjuration]
+categories:
+-spells
 ---
 
 **2nd-level conjuration**

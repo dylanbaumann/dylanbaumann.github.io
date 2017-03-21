@@ -4,6 +4,8 @@ title:  "Bless"
 date:   2014-08-24
 source: PHB.219
 tags: [cleric, paladin, level1, enchantment]
+categories:
+-spells
 ---
 
 **1st-level enchantment**

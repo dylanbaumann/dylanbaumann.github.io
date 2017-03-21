@@ -4,6 +4,8 @@ title: "Wall of Stone"
 date: 2015-07-30
 source: PHB.287
 tags: [druid, monk (four elements), sorcerer, wizard, level5, evocation]
+categories:
+-spells
 ---
 
 **5th-level evocation**

@@ -4,6 +4,8 @@ title:  "Maximilian's Earthen Grasp"
 date:   2015-11-19
 source: EE.20
 tags: [sorcerer, wizard, level2, transmutation]
+categories:
+-spells
 ---
 
 **2nd-level transmutation**

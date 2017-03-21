@@ -4,6 +4,8 @@ title:  "Watery Sphere"
 date:   2015-11-19
 source: EE.23
 tags: [druid, sorcerer, wizard, level4, conjuration]
+categories:
+-spells
 ---
 
 **4th-level conjuration**

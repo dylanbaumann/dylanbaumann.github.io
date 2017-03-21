@@ -4,6 +4,8 @@ title:  "Confusion"
 date:   2015-01-05
 source: PHB.224
 tags: [bard, cleric (knowledge), druid, paladin (oathbreaker), sorcerer, wizard, level4, enchantment]
+categories:
+-spells
 ---
 
 **4th-level enchantment**

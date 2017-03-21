@@ -4,6 +4,8 @@ title: "Gentle Repose"
 date: 2015-07-30
 source: PHB.245
 tags: [cleric, wizard, level2, ritual, necromancy]
+categories:
+-spells
 ---
 
 **2nd-level necromancy (ritual)**

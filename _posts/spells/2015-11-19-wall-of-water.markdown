@@ -4,6 +4,8 @@ title:  "Wall of Water"
 date:   2015-11-19
 source: EE.23
 tags: [druid, sorcerer, wizard, level3, evocation]
+categories:
+-spells
 ---
 
 **3rd-level evocation**

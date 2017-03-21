@@ -4,6 +4,8 @@ title:  "Aura of Life"
 date:   2015-01-01
 source: PHB.216
 tags: [paladin, warlock (undying), level4, abjuration]
+categories:
+-spells
 ---
 
 **4th-level abjuration**

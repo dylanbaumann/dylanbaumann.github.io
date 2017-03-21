@@ -4,6 +4,8 @@ title:  "Detect Poison and Disease"
 date:   2014-08-24
 source: PHB.231
 tags: [cleric, druid, paladin, ranger, level1, ritual, divination]
+categories:
+-spells
 ---
 
 **1st-level divination (ritual)**

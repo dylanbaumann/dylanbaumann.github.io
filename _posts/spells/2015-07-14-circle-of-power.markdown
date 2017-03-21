@@ -4,6 +4,8 @@ title: "Circle of Power"
 date: 2015-07-14
 source: PHB.221
 tags: [paladin, level5, abjuration]
+categories:
+-spells
 ---
 
 **5th-level abjuration**

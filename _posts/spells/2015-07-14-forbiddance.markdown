@@ -4,6 +4,8 @@ title: "Forbiddance"
 date: 2015-07-14
 source: PHB.243
 tags: [cleric, level6, ritual, abjuration]
+categories:
+-spells
 ---
 
 **6th-level abjuration (ritual)**

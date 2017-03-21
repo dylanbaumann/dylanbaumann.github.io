@@ -4,6 +4,8 @@ title:  "Dispel Magic"
 date:   2015-01-01
 source: PHB.234
 tags: [bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3, abjuration]
+categories:
+-spells
 ---
 
 **3rd-level abjuration**

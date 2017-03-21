@@ -4,6 +4,8 @@ title: "Dominate Person"
 date: 2015-07-14
 source: PHB.235
 tags: [bard, cleric (trickery), paladin (oathbreaker), sorcerer, warlock (fae), warlock (great old one), wizard, level5, enchantment]
+categories:
+-spells
 ---
 
 **5th-level enchantment**

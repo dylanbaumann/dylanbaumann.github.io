@@ -4,6 +4,8 @@ title:  "Maelstrom"
 date:   2015-11-19
 source: EE.20
 tags: [druid, level5, evocation]
+categories:
+-spells
 ---
 
 **5th-level evocation**

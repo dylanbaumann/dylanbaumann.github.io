@@ -4,6 +4,8 @@ title:  "Sunburst"
 date:   2015-01-10
 source: PHB.279
 tags:   [druid, sorcerer, wizard, level8, evocation]
+categories:
+-spells
 ---
 
 **8th-level evocation**

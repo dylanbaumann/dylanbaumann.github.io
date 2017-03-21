@@ -4,6 +4,8 @@ title:  "Mordenkainen's Sword"
 date:   2015-01-11
 source: PHB.262
 tags:   [bard, wizard, level7, evocation]
+categories:
+-spells
 ---
 
 **7th-level evocation**

@@ -4,6 +4,8 @@ title: "Find the Path"
 date: 2015-07-14
 source: PHB.240
 tags: [bard, cleric, druid, level6, divination]
+categories:
+-spells
 ---
 
 **6th-level divination**

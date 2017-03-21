@@ -4,6 +4,8 @@ title:  "Burning Hands"
 date:   2014-08-24
 source: PHB.220
 tags: [genasai (fire), cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level1, evocation]
+categories:
+-spells
 ---
 
 **1st-level evocation**

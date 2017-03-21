@@ -4,6 +4,8 @@ title:  "Thunderwave"
 date:   2014-08-24
 source: PHB.282
 tags: [bard, cleric (tempest), druid, monk (four elements), sorcerer, wizard, level1, evocation]
+categories:
+-spells
 ---
 
 **1st-level evocation**

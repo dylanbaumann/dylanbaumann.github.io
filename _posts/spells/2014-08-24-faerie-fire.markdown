@@ -4,6 +4,8 @@ title:  "Faerie Fire"
 date:   2014-08-24
 source: PHB.239
 tags: [elf (drow), bard, cleric (light), druid, warlock (fae), level1, evocation]
+categories:
+-spells
 ---
 
 **1st-level evocation**

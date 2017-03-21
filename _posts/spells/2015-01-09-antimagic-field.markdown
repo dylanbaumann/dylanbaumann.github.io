@@ -4,6 +4,8 @@ title:  "Antimagic Field"
 date:   2015-01-09
 source: PHB.213
 tags: [cleric, wizard, level8, abjuration]
+categories:
+-spells
 ---
 
 **8th-level abjuration**

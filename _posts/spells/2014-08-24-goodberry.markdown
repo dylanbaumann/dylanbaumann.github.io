@@ -4,6 +4,8 @@ title:  "Goodberry"
 date:   2014-08-24
 source: PHB.246
 tags: [druid, ranger, level1, transmutation]
+categories:
+-spells
 ---
 
 **1st-level transmutation**

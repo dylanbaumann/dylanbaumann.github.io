@@ -4,6 +4,8 @@ title:  "Calm Emotions"
 date:   2014-12-31
 source: PHB.221
 tags: [bard, cleric, warlock (fae), level2, enchantment]
+categories:
+-spells
 ---
 
 **2nd-level enchantment**

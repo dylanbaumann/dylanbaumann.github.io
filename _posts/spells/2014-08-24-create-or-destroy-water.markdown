@@ -4,6 +4,8 @@ title:  "Create or Destroy Water"
 date:   2014-08-24
 source: PHB.229
 tags: [genasai (water), cleric, druid, level1, transmutation]
+categories:
+-spells
 ---
 
 **1st-level transmutation**

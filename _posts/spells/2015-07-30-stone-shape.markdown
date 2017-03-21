@@ -4,6 +4,8 @@ title: "Stone Shape"
 date: 2015-07-30
 source: PHB.278
 tags: [cleric, druid, wizard, level4, transmutation]
+categories:
+-spells
 ---
 
 **4th-level transmutation**

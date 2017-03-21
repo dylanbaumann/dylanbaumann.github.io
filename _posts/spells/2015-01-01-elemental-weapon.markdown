@@ -4,6 +4,8 @@ title:  "Elemental Weapon"
 date:   2015-01-01
 source: PHB.237
 tags: [paladin, level3, transmutation]
+categories:
+-spells
 ---
 
 **3rd-level transmutation**

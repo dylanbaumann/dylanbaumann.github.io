@@ -4,6 +4,8 @@ title:  "Control Water"
 date:   2015-01-05
 source: PHB.227
 tags: [cleric, druid, wizard, level4, transmutation]
+categories:
+-spells
 ---
 
 **4th-level transmutation**

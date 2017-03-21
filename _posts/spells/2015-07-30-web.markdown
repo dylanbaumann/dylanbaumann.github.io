@@ -4,6 +4,8 @@ title: "Web"
 date: 2015-07-30
 source: PHB.287
 tags: [druid (underdark), sorcerer, wizard, level2, conjuration]
+categories:
+-spells
 ---
 
 **2nd-level conjuration**

@@ -4,6 +4,8 @@ title: "Greater Invisibility"
 date: 2015-07-30
 source: PHB.246
 tags: [bard, druid (underdark), sorcerer, warlock (fae), wizard, level4, illusion]
+categories:
+-spells
 ---
 
 **4th-level illusion**

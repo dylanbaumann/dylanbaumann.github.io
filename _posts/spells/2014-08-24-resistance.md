@@ -4,6 +4,8 @@ title:  "Resistance"
 date:   2014-08-24
 source: PHB.272
 tags: [cleric, druid, cantrip, abjuration]
+categories:
+-spells
 ---
 
 **Abjuration cantrip**

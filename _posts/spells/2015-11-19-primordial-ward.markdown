@@ -4,6 +4,8 @@ title:  "Primordial Ward"
 date:   2015-11-19
 source: EE.21
 tags: [druid, level6, abjuration]
+categories:
+-spells
 ---
 
 **6th-level abjuration**

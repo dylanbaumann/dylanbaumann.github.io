@@ -4,6 +4,8 @@ title: "Phantasmal Killer"
 date: 2015-07-30
 source: PHB.265
 tags: [wizard, level4, illusion]
+categories:
+-spells
 ---
 
 **4th-level illusion**

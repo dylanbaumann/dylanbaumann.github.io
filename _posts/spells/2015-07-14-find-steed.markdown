@@ -4,6 +4,8 @@ title: "Find Steed"
 date: 2015-07-14
 source: PHB.240
 tags: [paladin, level2, conjuration]
+categories:
+-spells
 ---
 
 **2nd-level conjuration**

@@ -4,6 +4,8 @@ title:  "Conjure Celestial"
 date:   2015-01-11
 source: PHB.225
 tags:   [cleric, level7, conjuration]
+categories:
+-spells
 ---
 
 **7th-level conjuration**

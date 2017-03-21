@@ -4,6 +4,8 @@ title:  "Power Word Stun"
 date:   2015-01-10
 source: PHB.267
 tags:   [bard, sorcerer, warlock, wizard, level8, enchantment]
+categories:
+-spells
 ---
 
 **8th-level enchantment**

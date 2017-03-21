@@ -4,6 +4,8 @@ title:  "Conjure Minor Elementals"
 date:   2015-01-05
 source: PHB.226
 tags: [druid, wizard, level4, conjuration]
+categories:
+-spells
 ---
 
 **4th-level conjuration**

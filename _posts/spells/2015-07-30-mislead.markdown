@@ -4,6 +4,8 @@ title: "Mislead"
 date: 2015-07-30
 source: PHB.260
 tags: [bard, wizard, level5, illusion]
+categories:
+-spells
 ---
 
 **5th-level illusion**

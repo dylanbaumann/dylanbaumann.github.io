@@ -4,6 +4,8 @@ title: "Cloudkill"
 date: 2015-07-14
 source: PHB.222
 tags: [cleric (death), druid (underdark), sorcerer, wizard, level5, conjuration]
+categories:
+-spells
 ---
 
 **5th-level conjuration**

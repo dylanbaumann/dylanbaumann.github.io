@@ -4,6 +4,8 @@ title: "Greater Restoration"
 date: 2015-07-30
 source: PHB.246
 tags: [bard, cleric, druid, level5, abjuration]
+categories:
+-spells
 ---
 
 **5th-level abjuration**

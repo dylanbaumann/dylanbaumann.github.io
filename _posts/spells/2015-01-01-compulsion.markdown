@@ -4,6 +4,8 @@ title:  "Compulsion"
 date:   2015-01-01
 source: PHB.224
 tags: [bard, level4, enchantment]
+categories:
+-spells
 ---
 
 **4th-level enchantment**

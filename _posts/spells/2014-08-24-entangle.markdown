@@ -4,6 +4,8 @@ title:  "Entangle"
 date:   2014-08-24
 source: PHB.238
 tags: [druid, level1, conjuration]
+categories:
+-spells
 ---
 
 **1st-level conjuration**

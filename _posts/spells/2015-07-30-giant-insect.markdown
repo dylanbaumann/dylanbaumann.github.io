@@ -4,6 +4,8 @@ title: "Giant Insect"
 date: 2015-07-30
 source: PHB.245
 tags: [druid, level4, transmutation]
+categories:
+-spells
 ---
 
 **4th-level transmutation**

@@ -4,6 +4,8 @@ title:  "Produce Flame"
 date:   2014-08-24
 source: PHB.269
 tags: [genasai (fire), druid, cantrip, conjuration]
+categories:
+-spells
 ---
 
 **Conjuration cantrip**

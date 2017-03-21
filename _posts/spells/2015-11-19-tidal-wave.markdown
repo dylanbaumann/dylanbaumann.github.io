@@ -4,6 +4,8 @@ title:  "Tidal Wave"
 date:   2015-11-19
 source: EE.22
 tags: [druid, wizard, level3, conjuration]
+categories:
+-spells
 ---
 
 **3rd-level conjuration**

@@ -4,6 +4,8 @@ title:  "Shapechange"
 date:   2015-01-10
 source: PHB.274
 tags:   [druid, wizard, level9, transmutation]
+categories:
+-spells
 ---
 
 **9th-level transmutation**

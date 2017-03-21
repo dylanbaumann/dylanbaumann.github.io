@@ -4,6 +4,8 @@ title: "True Seeing"
 date: 2015-07-30
 source: PHB.284
 tags: [bard, cleric, sorcerer, warlock, wizard, level6, divination]
+categories:
+-spells
 ---
 
 **6th-level divination**

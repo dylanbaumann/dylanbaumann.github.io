@@ -4,6 +4,8 @@ title:  "Earth Tremor"
 date:   2015-08-31
 source: EE.17
 tags: [bard, druid, sorcerer, wizard, level1, evocation]
+categories:
+-spells
 ---
 
 **1st-level evocation**

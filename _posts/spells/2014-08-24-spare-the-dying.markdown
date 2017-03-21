@@ -4,6 +4,8 @@ title:  "Spare the Dying"
 date:   2014-08-24
 source: PHB.277
 tags: [cleric, cantrip, necromancy]
+categories:
+-spells
 ---
 
 **Necromancy cantrip**

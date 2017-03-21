@@ -4,6 +4,8 @@ title:  "Shillelagh"
 date:   2014-08-24
 source: PHB.275
 tags: [druid, cantrip, transmutation]
+categories:
+-spells
 ---
 
 **Transmutation cantrip**

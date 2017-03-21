@@ -4,6 +4,8 @@ title: "See Invisibility"
 date: 2015-07-30
 source: PHB.274
 tags: [bard, sorcerer, wizard, level2, divination]
+categories:
+-spells
 ---
 
 **2nd-level divination**

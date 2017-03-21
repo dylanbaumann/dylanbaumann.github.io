@@ -4,6 +4,8 @@ title:  "Aura of Purity"
 date:   2015-01-01
 source: PHB.216
 tags: [paladin, level4, abjuration]
+categories:
+-spells
 ---
 
 **4th-level abjuration**

@@ -4,6 +4,8 @@ title:  "Time Stop"
 date:   2015-01-10
 source: PHB.283
 tags:   [sorcerer, wizard, level9, transmutation]
+categories:
+-spells
 ---
 
 **9th-level transmutation**

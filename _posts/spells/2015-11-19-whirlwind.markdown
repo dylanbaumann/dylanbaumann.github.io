@@ -4,6 +4,8 @@ title:  "Whirlwind"
 date:   2015-11-19
 source: EE.27
 tags: [druid, wizard, level7, evocation]
+categories:
+-spells
 ---
 
 **7th-level evocation**

@@ -4,6 +4,8 @@ title:  "Clone"
 date:   2015-01-09
 source: PHB.222
 tags:   [wizard, level8, necromancy]
+categories:
+-spells
 ---
 
 **8th-level necromancy**

@@ -4,6 +4,8 @@ title:  "Weird"
 date:   2015-01-10
 source: PHB.288
 tags:   [wizard, level9, illusion]
+categories:
+-spells
 ---
 
 **9th-level illusion**

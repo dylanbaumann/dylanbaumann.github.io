@@ -4,6 +4,8 @@ title: "Wall of Fire"
 date: 2015-07-30
 source: PHB.285
 tags: [cleric (light), druid, monk (four elements), sorcerer, warlock (fiend), wizard, level4, evocation]
+categories:
+-spells
 ---
 
 **4th-level evocation**

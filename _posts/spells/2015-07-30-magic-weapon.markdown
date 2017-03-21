@@ -4,6 +4,8 @@ title: "Magic Weapon"
 date: 2015-07-30
 source: PHB.257
 tags: [cleric (war), cleric (arcana), paladin, wizard, level2, transmutation]
+categories:
+-spells
 ---
 
 **2nd-level transmutation**

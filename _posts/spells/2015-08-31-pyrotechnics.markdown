@@ -4,6 +4,8 @@ title:  "Pyrotechnics"
 date:   2015-08-31
 source: EE.21
 tags: [bard, sorcerer, wizard, level2, transmutation]
+categories:
+-spells
 ---
 
 **2nd-level transmutation**

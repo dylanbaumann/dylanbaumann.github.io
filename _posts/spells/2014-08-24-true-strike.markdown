@@ -4,6 +4,8 @@ title:  "True Strike"
 date:   2014-08-24
 source: PHB.284
 tags: [bard, sorcerer, warlock, wizard, cantrip, divination]
+categories:
+-spells
 ---
 
 **Divination cantrip**

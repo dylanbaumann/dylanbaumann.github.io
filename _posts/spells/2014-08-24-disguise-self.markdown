@@ -4,6 +4,8 @@ title:  "Disguise Self"
 date:   2014-08-24
 source: PHB.233
 tags: [bard, cleric (trickery), sorcerer, wizard, level1, illusion]
+categories:
+-spells
 ---
 
 **1st-level illusion**

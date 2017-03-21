@@ -4,6 +4,8 @@ title:  "Gate"
 date:   2015-01-10
 source: PHB.244
 tags:   [cleric, sorcerer, wizard, level9, conjuration]
+categories:
+-spells
 ---
 
 **9th-level conjuration**

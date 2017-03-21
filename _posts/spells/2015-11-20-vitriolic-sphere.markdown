@@ -4,6 +4,8 @@ title:  "Vitriolic Sphere"
 date:   2015-11-20
 source: EE.23
 tags: [sorcerer, wizard, level4, evocation]
+categories:
+-spells
 ---
 
 **4th-level evocation**

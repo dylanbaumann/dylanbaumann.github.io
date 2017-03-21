@@ -4,6 +4,8 @@ title: "Conjure Elemental"
 date: 2015-07-14
 source: PHB.225
 tags: [druid, wizard, level5, conjuration]
+categories:
+-spells
 ---
 
 **5th-level conjuration**

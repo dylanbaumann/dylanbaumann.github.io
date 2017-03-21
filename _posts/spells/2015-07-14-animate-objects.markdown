@@ -4,6 +4,8 @@ title: "Animate Objects"
 date: 2015-07-14
 source: PHB.213
 tags: [bard, sorcerer, wizard, level5, transmutation]
+categories:
+-spells
 ---
 
 **5th-level transmutation**

@@ -4,6 +4,8 @@ title:  "Daylight"
 date:   2015-01-01
 source: PHB.230
 tags: [cleric, druid, paladin, ranger, sorcerer, level3, evocation]
+categories:
+-spells
 ---
 
 **3rd-level evocation**

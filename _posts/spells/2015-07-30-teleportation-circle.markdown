@@ -4,6 +4,8 @@ title: "Teleportation Circle"
 date: 2015-07-30
 source: PHB.281
 tags: [bard, cleric (arcana), sorcerer, wizard, level5, conjuration]
+categories:
+-spells
 ---
 
 **5th-level conjuration**

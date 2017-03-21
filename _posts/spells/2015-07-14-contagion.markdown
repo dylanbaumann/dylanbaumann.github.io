@@ -4,6 +4,8 @@ title: "Contagion"
 date: 2015-07-14
 source: PHB.227
 tags: [cleric, druid, paladin (oathbreaker), warlock (undying), level5, necromancy]
+categories:
+-spells
 ---
 
 **5th-level necromancy**

@@ -4,6 +4,8 @@ title:  "Charm Person"
 date:   2014-08-24
 source: PHB.221
 tags: [bard, cleric (trickery), druid, sorcerer, warlock, wizard, level1, enchantment]
+categories:
+-spells
 ---
 
 **1st-level enchantment**

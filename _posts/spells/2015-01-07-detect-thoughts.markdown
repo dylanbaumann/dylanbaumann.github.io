@@ -4,6 +4,8 @@ title:  "Detect Thoughts"
 date:   2015-01-07
 source: PHB.231
 tags: [bard, sorcerer, warlock (great old one), wizard, level2, divination]
+categories:
+-spells
 ---
 
 **2nd-level divination**

@@ -4,6 +4,8 @@ title: "Pass Without Trace"
 date: 2015-07-30
 source: PHB.264
 tags: [cleric (trickery), druid, monk (shadow), ranger, level2, abjuration]
+categories:
+-spells
 ---
 
 **2nd-level abjuration**

@@ -4,6 +4,8 @@ title:  "Blink"
 date:   2015-01-01
 source: PHB.219
 tags: [cleric (trickery), sorcerer, warlock (fae), wizard, level3, transmutation]
+categories:
+-spells
 ---
 
 **3rd-level transmutation**

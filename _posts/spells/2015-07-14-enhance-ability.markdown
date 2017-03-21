@@ -4,6 +4,8 @@ title: "Enhance Ability"
 date: 2015-07-14
 source: PHB.237
 tags: [bard, cleric, druid, sorcerer, level2, transmutation]
+categories:
+-spells
 ---
 
 **2nd-level transmutation**

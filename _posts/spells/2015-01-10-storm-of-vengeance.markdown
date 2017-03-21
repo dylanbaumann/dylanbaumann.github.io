@@ -4,6 +4,8 @@ title:  "Storm of Vengeance"
 date:   2015-01-10
 source: PHB.279
 tags:   [druid, level9, conjuration]
+categories:
+-spells
 ---
 
 **9th-level conjuration**

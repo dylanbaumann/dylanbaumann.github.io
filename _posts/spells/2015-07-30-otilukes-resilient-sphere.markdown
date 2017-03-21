@@ -4,6 +4,8 @@ title: "Otiluke's Resilient Sphere"
 date: 2015-07-30
 source: PHB.264
 tags: [wizard, level4, evocation]
+categories:
+-spells
 ---
 
 **4th-level evocation**

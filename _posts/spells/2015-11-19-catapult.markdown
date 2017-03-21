@@ -4,6 +4,8 @@ title:  "Catapult"
 date:   2015-11-19
 source: EE.15
 tags: [sorcerer, wizard, level1, transmutation]
+categories:
+-spells
 ---
 
 **1st-level transmutation**

@@ -4,6 +4,8 @@ title: "Dominate Beast"
 date: 2015-07-14
 source: PHB.234
 tags: [cleric (nature), druid, warlock (fae), warlock (great old one), sorcerer, level4, enchantment]
+categories:
+-spells
 ---
 
 **4th-level enchantment**

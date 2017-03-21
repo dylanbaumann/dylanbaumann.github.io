@@ -4,6 +4,8 @@ title: "Grasping Vine"
 date: 2015-07-30
 source: PHB.246
 tags: [cleric (nature), druid, ranger, level4, conjuration]
+categories:
+-spells
 ---
 
 **4th-level conjuration**

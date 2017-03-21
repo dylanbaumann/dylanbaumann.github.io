@@ -4,6 +4,8 @@ title: "Spike Growth"
 date: 2015-07-30
 source: PHB.277
 tags: [cleric (nature), druid, ranger, level2, transmutation]
+categories:
+-spells
 ---
 
 **2nd-level transmutation**
