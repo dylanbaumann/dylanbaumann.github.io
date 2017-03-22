@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flame Strike"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.242
 tags: [cleric, paladin (devotion), warlock (fiend), level5, evocation]
 categories:

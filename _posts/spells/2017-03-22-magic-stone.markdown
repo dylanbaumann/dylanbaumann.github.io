@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magic Stone"
-date:   2015-11-11
+date:   2017-3-22
 source: EE.20
 tags: [druid, warlock, cantrip, transmutation]
 categories:

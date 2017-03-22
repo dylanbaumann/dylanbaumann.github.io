@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Locate Object"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.256
 tags: [bard, cleric, druid, paladin, ranger, wizard, level2, divination]
 categories:

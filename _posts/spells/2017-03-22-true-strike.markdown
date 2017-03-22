@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "True Strike"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.284
 tags: [bard, sorcerer, warlock, wizard, cantrip, divination]
 categories:

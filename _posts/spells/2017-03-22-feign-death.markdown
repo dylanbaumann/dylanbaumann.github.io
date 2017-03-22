@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feign Death"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.240
 tags: [bard, cleric, druid, warlock (undying), wizard, level3, ritual, necromancy]
 categories:

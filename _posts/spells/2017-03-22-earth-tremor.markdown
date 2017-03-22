@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Earth Tremor"
-date:   2015-08-31
+date:   2017-3-22
 source: EE.17
 tags: [bard, druid, sorcerer, wizard, level1, evocation]
 categories:

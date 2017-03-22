@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Power Word Heal"
-date:   2015-01-10
+date:   2017-3-22
 source: PHB.266
 tags:   [bard, level9, evocation]
 categories:

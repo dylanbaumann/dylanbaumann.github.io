@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spare the Dying"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.277
 tags: [cleric, cantrip, necromancy]
 categories:

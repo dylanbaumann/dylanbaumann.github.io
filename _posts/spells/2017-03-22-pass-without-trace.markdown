@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pass Without Trace"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.264
 tags: [cleric (trickery), druid, monk (shadow), ranger, level2, abjuration]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crusader's Mantle"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.230
 tags: [cleric (war), paladin, level3, evocation]
 categories:

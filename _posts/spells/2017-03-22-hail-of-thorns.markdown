@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hail of Thorns"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.249
 tags: [ranger, level1, conjuration]
 categories:

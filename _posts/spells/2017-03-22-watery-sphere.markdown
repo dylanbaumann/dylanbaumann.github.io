@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watery Sphere"
-date:   2015-11-19
+date:   2017-3-22
 source: EE.23
 tags: [druid, sorcerer, wizard, level4, conjuration]
 categories:

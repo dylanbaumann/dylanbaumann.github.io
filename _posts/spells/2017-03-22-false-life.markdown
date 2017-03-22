@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "False Life"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.239
 tags: [cleric (death), sorcerer, warlock (undying), wizard, level1, necromancy]
 categories:

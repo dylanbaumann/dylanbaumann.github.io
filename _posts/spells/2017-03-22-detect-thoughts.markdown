@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detect Thoughts"
-date:   2015-01-07
+date:   2017-3-22
 source: PHB.231
 tags: [bard, sorcerer, warlock (great old one), wizard, level2, divination]
 categories:

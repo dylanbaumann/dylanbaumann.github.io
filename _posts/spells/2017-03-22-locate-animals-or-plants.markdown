@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Locate Animals or Plants"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.256
 tags: [bard, druid, ranger, level2, ritual, divination]
 categories:

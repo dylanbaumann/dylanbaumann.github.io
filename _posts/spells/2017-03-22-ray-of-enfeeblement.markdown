@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ray of Enfeeblement"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.271
 tags: [cleric (death), warlock, wizard, level2, necromancy]
 categories:

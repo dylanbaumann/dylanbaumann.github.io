@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sleet Storm"
-date:   2015-01-02
+date:   2017-3-22
 source: PHB.276
 tags: [cleric (tempest), druid, sorcerer, wizard, level3, conjuration]
 categories:

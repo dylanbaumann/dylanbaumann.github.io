@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Glyph of Warding"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.245
 tags: [bard, cleric, wizard, level3, abjuration]
 categories:

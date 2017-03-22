@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swift Quiver"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.279
 tags: [ranger, level5, transmutation]
 categories:

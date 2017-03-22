@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detect Poison and Disease"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.231
 tags: [cleric, druid, paladin, ranger, level1, ritual, divination]
 categories:

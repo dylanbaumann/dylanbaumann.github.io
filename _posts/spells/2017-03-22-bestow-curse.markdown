@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bestow Curse"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.218
 tags: [bard, cleric, paladin (oathbreaker), wizard, level3, necromancy]
 categories:

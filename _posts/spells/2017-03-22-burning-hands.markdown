@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Burning Hands"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.220
 tags: [genasai (fire), cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level1, evocation]
 categories:

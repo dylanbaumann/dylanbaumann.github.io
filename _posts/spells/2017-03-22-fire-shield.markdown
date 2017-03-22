@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fire Shield"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.241
 tags: [warlock (fiend), wizard, level4, evocation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "True Seeing"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.284
 tags: [bard, cleric, sorcerer, warlock, wizard, level6, divination]
 categories:

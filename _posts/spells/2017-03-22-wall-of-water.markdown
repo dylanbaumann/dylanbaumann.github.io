@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wall of Water"
-date:   2015-11-19
+date:   2017-3-22
 source: EE.23
 tags: [druid, sorcerer, wizard, level3, evocation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conjure Animals"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.225
 tags: [druid, ranger, level3, conjuration]
 categories:

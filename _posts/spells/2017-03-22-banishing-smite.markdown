@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Banishing Smite"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.216
 tags: [paladin, level5, abjuration]
 categories:

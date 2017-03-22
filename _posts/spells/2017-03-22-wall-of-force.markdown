@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wall of Force"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.285
 tags: [wizard, level5, evocation]
 categories:

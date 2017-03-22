@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suggestion"
-date: 2015-05-11
+date: 2017-3-22
 source: PHB.279
 tags: [bard, cleric (knowledge), sorcerer, warlock, wizard, level2, enchantment]
 categories:

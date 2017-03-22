@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Misty Step"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.260
 tags: [druid (coast), paladin (ancients), paladin (vengeance), sorcerer, warlock, wizard, level2, conjuration]
 categories:

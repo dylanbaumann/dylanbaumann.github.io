@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Divine Favor"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.234
 tags: [cleric (war), paladin, level1, evocation]
 categories:

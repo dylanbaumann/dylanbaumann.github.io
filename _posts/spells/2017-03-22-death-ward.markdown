@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Death Ward"
-date:   2015-01-05
+date:   2017-3-22
 source: PHB.230
 tags: [cleric, paladin, warlock (undying), level4, abjuration]
 categories:

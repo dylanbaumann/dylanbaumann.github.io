@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dissonant Whispers"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.234
 tags: [bard, warlock (great old one), level1, enchantment]
 categories:

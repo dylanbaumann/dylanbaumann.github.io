@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animate Objects"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.213
 tags: [bard, sorcerer, wizard, level5, transmutation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Demiplane"
-date:   2015-01-10
+date:   2017-3-22
 source: PHB.231
 tags:   [warlock, wizard, level8, conjuration]
 categories:

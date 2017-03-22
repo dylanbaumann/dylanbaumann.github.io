@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vampiric Touch"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.285
 tags: [cleric (death), warlock, wizard, level3, necromancy]
 categories:

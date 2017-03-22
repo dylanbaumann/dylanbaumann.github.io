@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thunderwave"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.282
 tags: [bard, cleric (tempest), druid, monk (four elements), sorcerer, wizard, level1, evocation]
 categories:

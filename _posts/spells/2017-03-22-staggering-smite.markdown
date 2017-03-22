@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Staggering Smite"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.278
 tags: [paladin, level4, evocation]
 categories:

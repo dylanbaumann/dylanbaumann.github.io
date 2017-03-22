@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evard's Black Tentacles"
-date:   2015-07-14
+date:   2017-3-22
 source: PHB.238
 tags: [warlock (great old one), wizard, level4, conjuration]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warding Bond"
-date:   2014-12-31
+date:   2017-3-22
 source: PHB.287
 tags: [cleric, paladin (crown), level2, abjuration]
 categories:

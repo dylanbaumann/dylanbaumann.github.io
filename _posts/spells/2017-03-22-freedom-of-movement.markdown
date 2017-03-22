@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Freedom of Movement"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.244
 tags: [bard, cleric, druid, paladin (devotion), ranger, level4, abjuration]
 categories:

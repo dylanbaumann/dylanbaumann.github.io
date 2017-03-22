@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mold Earth"
-date:   2015-11-11
+date:   2017-3-22
 source: EE.21
 tags: [druid, sorcerer, wizard, cantrip, transmutation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Immolation"
-date:   2015-11-20
+date:   2017-3-22
 source: EE.19
 tags: [sorcerer, wizard, level5, evocation]
 categories:

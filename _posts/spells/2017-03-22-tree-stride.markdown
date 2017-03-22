@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tree Stride"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.283
 tags: [cleric (nature), druid, paladin (ancients), ranger, level5, conjuration]
 categories:

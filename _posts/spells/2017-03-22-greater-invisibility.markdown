@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greater Invisibility"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.246
 tags: [bard, druid (underdark), sorcerer, warlock (fae), wizard, level4, illusion]
 categories:

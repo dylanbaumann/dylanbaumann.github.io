@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contact Other Plane"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.226
 tags: [warlock, wizard, level5, ritual, divination]
 categories:

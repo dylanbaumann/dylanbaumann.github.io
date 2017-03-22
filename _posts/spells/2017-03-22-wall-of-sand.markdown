@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wall of Sand"
-date:   2015-11-22
+date:   2017-3-22
 source: EE.23
 tags: [wizard, level3, evocation]
 categories:

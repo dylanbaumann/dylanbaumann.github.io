@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disguise Self"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.233
 tags: [bard, cleric (trickery), sorcerer, wizard, level1, illusion]
 categories:

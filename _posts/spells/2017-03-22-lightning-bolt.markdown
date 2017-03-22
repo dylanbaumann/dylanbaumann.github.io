@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightning Bolt"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.255
 tags: [druid (mountain), sorcerer, wizard, level3, evocation]
 categories:

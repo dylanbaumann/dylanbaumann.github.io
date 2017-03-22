@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Modify Memory"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.261
 tags: [bard, cleric (trickery), wizard, level5, enchantment]
 categories:

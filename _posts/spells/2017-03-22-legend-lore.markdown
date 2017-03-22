@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Legend Lore"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.254
 tags: [bard, cleric, warlock (undying), wizard, level5, divination]
 categories:

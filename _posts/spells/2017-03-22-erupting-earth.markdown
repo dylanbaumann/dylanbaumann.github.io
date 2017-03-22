@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erupting Earth"
-date:   2015-11-19
+date:   2017-3-22
 source: EE.17
 tags: [druid, sorcerer, wizard, level3, transmutation]
 categories:

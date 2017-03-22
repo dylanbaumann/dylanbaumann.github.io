@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beacon of Hope"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.217
 tags: [cleric, paladin (devotion), level3, abjuration]
 categories:

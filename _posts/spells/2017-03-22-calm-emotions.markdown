@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Calm Emotions"
-date:   2014-12-31
+date:   2017-3-22
 source: PHB.221
 tags: [bard, cleric, warlock (fae), level2, enchantment]
 categories:

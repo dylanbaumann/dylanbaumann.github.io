@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Melf's Acid Arrow"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.259
 tags: [druid (swamp), wizard, level2, evocation]
 categories:

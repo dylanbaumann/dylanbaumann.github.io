@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Counterspell"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.228
 tags: [sorcerer, warlock, wizard, level3, abjuration]
 categories:

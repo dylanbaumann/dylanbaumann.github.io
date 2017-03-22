@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flesh to Stone"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.243
 tags: [warlock, wizard, level6, transmutation]
 categories:

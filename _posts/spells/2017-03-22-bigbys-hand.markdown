@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bigby's Hand"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.218
 tags: [wizard, level5, evocation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phantasmal Killer"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.265
 tags: [wizard, level4, illusion]
 categories:

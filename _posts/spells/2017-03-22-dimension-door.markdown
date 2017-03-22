@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dimension Door"
-date:   2015-01-11
+date:   2017-3-22
 source: PHB.233
 tags: [bard, cleric (trickery), paladin (vengeance), sorcerer, warlock, wizard, level4, conjuration]
 categories:

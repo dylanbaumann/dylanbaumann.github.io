@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Protection from Poison"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.270
 tags: [cleric, ranger, paladin, druid, level2, abjuration]
 categories:

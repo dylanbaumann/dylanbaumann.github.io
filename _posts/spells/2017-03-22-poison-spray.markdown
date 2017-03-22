@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poison Spray"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.266
 tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
 categories:

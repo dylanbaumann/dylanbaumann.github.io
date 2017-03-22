@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Investiture of Stone"
-date:   2015-11-19
+date:   2017-3-22
 source: EE.19
 tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 categories:

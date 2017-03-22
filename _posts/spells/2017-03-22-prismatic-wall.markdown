@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prismatic Wall"
-date:   2015-01-10
+date:   2017-3-22
 source: PHB.267
 tags:   [wizard, level9, abjuration]
 categories:

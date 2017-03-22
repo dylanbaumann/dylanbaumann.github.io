@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Remove Curse"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.271
 tags: [cleric, paladin, warlock, wizard, level3, abjuration]
 categories:

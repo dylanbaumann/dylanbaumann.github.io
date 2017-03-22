@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warding Wind"
-date:   2015-08-31
+date:   2017-3-22
 source: EE.23
 tags: [bard, druid, sorcerer, level2, evocation]
 categories:

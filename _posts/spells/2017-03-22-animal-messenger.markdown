@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Animal Messenger"
-date:   2014-12-31
+date:   2017-3-22
 source: PHB.212
 tags: [bard, druid, ranger, level2, ritual, enchantment]
 categories:

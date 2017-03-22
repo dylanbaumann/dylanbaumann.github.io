@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frostbite"
-date:   2015-11-11
+date:   2017-3-22
 source: EE.18
 tags: [druid, sorcerer, warlock, wizard, cantrip, evocation]
 categories:

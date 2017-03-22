@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acid Splash"
-date:   2014-08-24
+date:   2017-3-22
 tags: [sorcerer, wizard, cantrip, conjuration]
 categories:
 - spells

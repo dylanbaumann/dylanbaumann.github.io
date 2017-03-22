@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prayer of Healing"
-date:   2014-12-31
+date:   2017-3-22
 source: PHB.267
 tags: [cleric, level2, evocation]
 categories:

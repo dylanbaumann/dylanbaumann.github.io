@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lesser Restoration"
-date:   2014-12-31
+date:   2017-3-22
 source: PHB.255
 tags: [bard, cleric, druid, paladin, ranger, level2, abjuration]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blade Ward"
-date:   2015-05-12
+date:   2017-3-22
 source: PHB.218
 tags: [bard, sorcerer, warlock, wizard, cantrip, abjuration]
 categories:

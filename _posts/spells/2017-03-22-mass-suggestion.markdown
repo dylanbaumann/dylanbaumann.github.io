@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mass Suggestion"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.258
 tags: [bard, sorcerer, warlock, wizard, level6, enchantment]
 categories:

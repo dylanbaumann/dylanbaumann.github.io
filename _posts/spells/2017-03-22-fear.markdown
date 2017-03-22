@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fear"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.239
 tags: [bard, sorcerer, warlock, wizard, level3, illusion]
 categories:

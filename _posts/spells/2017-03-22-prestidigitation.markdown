@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prestidigitation"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.267
 tags: [bard, sorcerer, warlock, wizard, cantrip, transmutation]
 categories:

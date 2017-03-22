@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Illusory Script"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.252
 tags: [bard, warlock, wizard, level1, ritual, illusion]
 categories:

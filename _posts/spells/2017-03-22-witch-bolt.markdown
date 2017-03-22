@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Witch Bolt"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.289
 tags: [sorcerer, warlock, wizard, level1, evocation]
 categories:

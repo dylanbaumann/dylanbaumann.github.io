@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arcane Gate"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.214
 tags: [sorcerer, warlock, wizard, level6, conjuration]
 categories:

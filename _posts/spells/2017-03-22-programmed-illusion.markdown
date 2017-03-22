@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programmed Illusion"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.269
 tags: [bard, wizard, level6, illusion]
 categories:

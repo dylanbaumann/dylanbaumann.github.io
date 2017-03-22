@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shield of Faith"
-date: 2014-08-24
+date: 2017-3-22
 source: PHB.275
 tags: [cleric, paladin, level1, abjuration]
 

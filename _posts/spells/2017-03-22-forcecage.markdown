@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forcecage"
-date: 2015-01-11
+date: 2017-3-22
 source: PHB.243
 tags: [bard, warlock, wizard, level7, evocation]
 categories:

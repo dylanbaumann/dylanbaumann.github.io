@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tasha's Hideous Laughter"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.280
 tags: [bard, warlock (great old one), wizard, level1, enchantment]
 categories:

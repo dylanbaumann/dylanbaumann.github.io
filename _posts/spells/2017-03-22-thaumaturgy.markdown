@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thaumaturgy"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.282
 tags: [tiefling, cleric, cantrip, transmutation]
 categories:

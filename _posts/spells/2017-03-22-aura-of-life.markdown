@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aura of Life"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.216
 tags: [paladin, warlock (undying), level4, abjuration]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Etherealness"
-date:   2015-01-11
+date:   2017-3-22
 source: PHB.238
 tags:   [bard, cleric, sorcerer, warlock, wizard, level7, transmutation]
 categories:

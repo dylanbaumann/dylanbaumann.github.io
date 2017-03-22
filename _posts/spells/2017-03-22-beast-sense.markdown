@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beast Sense"
-date:   2015-01-07
+date:   2017-3-22
 source: PHB.217
 tags: [barbarian (totem warrior), druid, ranger, level2, ritual, divination]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finger of Death"
-date:   2015-01-11
+date:   2017-3-22
 source: PHB.241
 tags:   [sorcerer, warlock, wizard, level7, necromancy]
 categories:

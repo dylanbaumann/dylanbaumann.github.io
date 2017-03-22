@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delayed Blast Fireball"
-date:   2015-01-11
+date:   2017-3-22
 source: PHB.230
 tags:   [sorcerer, wizard, level7, evocation]
 categories:

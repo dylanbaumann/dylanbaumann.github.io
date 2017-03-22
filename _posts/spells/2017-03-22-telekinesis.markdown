@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Telekinesis"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.280
 tags: [sorcerer, warlock (great old one), wizard, level5, transmutation]
 categories:

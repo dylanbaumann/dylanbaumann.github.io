@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Speak with Plants"
-date:   2015-01-02
+date:   2017-3-22
 source: PHB.277
 tags: [bard, druid, ranger, level3, transmutation]
 categories:

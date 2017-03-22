@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detect Magic"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.231
 tags: [bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, ritual, divination]
 categories:

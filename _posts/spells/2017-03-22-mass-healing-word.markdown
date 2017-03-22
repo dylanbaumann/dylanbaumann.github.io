@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mass Healing Word"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.258
 tags: [cleric, level3, evocation]
 categories:

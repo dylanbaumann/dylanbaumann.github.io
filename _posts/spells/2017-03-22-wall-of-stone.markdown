@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wall of Stone"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.287
 tags: [druid, monk (four elements), sorcerer, wizard, level5, evocation]
 categories:

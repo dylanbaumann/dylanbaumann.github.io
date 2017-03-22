@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Animate Dead"
-date:   2015-01-01
+date:   2017-3-22
 source: PHB.212
 tags: [cleric, paladin (oathbreaker), wizard, level3, necromancy]
 categories:

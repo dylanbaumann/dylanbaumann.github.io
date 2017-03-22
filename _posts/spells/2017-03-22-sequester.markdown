@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sequester"
-date:   2015-01-12
+date:   2017-3-22
 source: PHB.274
 tags:   [wizard, level7, transmutation]
 categories:

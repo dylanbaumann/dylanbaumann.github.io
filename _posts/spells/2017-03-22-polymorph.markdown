@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polymorph"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.266
 tags: [bard, cleric (trickery), druid, sorcerer, wizard, level4, transmutation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blade Barrier"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.218
 tags: [cleric, level6, evocation]
 categories:

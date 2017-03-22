@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rary's Telepathic Bond"
-date:  2015-07-30
+date:  2017-3-22
 source: PHB.270
 tags:  [wizard, level5, ritual, divination]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mordenkainen's Magnificent Mansion"
-date:   2015-01-11
+date:   2017-3-22
 source: PHB.261
 tags:   [bard, wizard, level7, conjuration]
 categories:

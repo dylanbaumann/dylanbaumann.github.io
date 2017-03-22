@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Faerie Fire"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.239
 tags: [elf (drow), bard, cleric (light), druid, warlock (fae), level1, evocation]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insect Plague"
-date: 2015-07-30
+date: 2017-3-22
 source: PHB.254
 tags: [cleric, druid, sorcerer, level5, conjuration]
 categories:

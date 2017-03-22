@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Destructive Wave"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.231
 tags: [cleric (tempest), paladin, level5, evocation]
 categories:

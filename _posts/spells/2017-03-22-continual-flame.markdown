@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Continual Flame"
-date: 2015-07-14
+date: 2017-3-22
 source: PHB.227
 tags: [cleric, wizard, level2, evocation]
 categories:

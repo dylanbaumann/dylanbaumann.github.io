@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Produce Flame"
-date:   2014-08-24
+date:   2017-3-22
 source: PHB.269
 tags: [genasai (fire), druid, cantrip, conjuration]
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Control Water"
-date:   2015-01-05
+date:   2017-3-22
 source: PHB.227
 tags: [cleric, druid, wizard, level4, transmutation]
 categories:
