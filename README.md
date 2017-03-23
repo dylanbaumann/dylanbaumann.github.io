@@ -1,11 +1,18 @@
 # Fungeoneering!
-## Powered by [Jekyll](https://github.com/jekyll/jekyll)
+
+This is is powered by [Jekyll](https://github.com/jekyll/jekyll)
 
 ## Quick Start
 
-### Publishing posts
+All changes committed to this repository will automatically compile and be pushed to a live server thanks to [Github Pages](https://pages.github.com/). Feel free to click around inside of this repository and make any edits you'd like. If you don't have permission, then make a Pull Request and I'll take a look for you!
+
+### Publishing new posts
 
 Posts live inside of `_posts/{CATEGORY_NAME}/`. To create a new post, add a new file to your desired category using the name structure of `YYYY-MM-DD-Post-Name.md`, then inside the post add the folder name as a category in the post's meta-data.
+
+For example, if you wanted to make a new "update", add a new file to `_posts/posts/` named `2017-03-21-New-Update.md` then add the following meta-information at the top of the post before beginning to write markdown:
+
+![Category Example](http://i.imgur.com/mAsWDVu.png "Category Example")
 
 ## Local Development
 
