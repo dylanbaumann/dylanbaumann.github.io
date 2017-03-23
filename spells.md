@@ -9,10 +9,10 @@ permalink: /spells/
 A test of how markdown functions in relation to large amounts of post info
 
 
-<div class="spells">
+<section class="spells-list">
 	{% for post in site.categories['spells'] %}
-		<article class="post">
-			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-		</article>
+		<div class="spells-list-item">
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+		</div>
 	{% endfor %}
-</div>
+</section>
