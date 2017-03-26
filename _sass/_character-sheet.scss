@@ -1,3 +1,88 @@
 .character-sheet {
 	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 20px;
+	padding: 10px;
+	border: 1px solid #666;
+
+	& > * {
+		display: flex;
+		flex-wrap: wrap;
+		border: 1px solid red;
+	}
+
+	p {
+		margin-top: 0;
+
+		& + .label {
+			font-size: 10px;
+			margin-top: -12px;
+			border-top: 1px solid #eeeeee;
+		}
+	}
 }
+
+// Typography
+.label {
+	display: block;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+
+.dot {
+	display: block;
+	width: 10px;
+	height: 10px;
+	border: 1px solid #666666;
+	border-radius: 100%;
+
+	&.filled {
+		background: #666666;
+	}
+}
+
+
+.character-overview {}
+
+	.character-name,
+	.character-info {
+		flex: 0 0 100%;
+	}
+
+	.character-info {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		& > * {
+			flex: 0 0 calc(50% - 10px);
+			margin-bottom: 20px;
+		}
+	}
+
+.core-stats {
+	flex: 0 0 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	& > * {
+		flex: 0 0 calc(50% - 10px);
+		margin-bottom: 20px;
+	}
+}
+
+.skills {}
+
+.proficiencies {}
+
+.defense {}
+
+.offense {}
+
+.equipment {}
+
+.character-background {}
+
+.features-and-traits {}
