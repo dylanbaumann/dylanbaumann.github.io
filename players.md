@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: player
 title: Players
 permalink: /players/
 ---
