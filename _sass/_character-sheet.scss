@@ -44,10 +44,15 @@
 
 
 .character-overview {}
-
 	.character-name,
 	.character-info {
 		flex: 0 0 100%;
+	}
+
+	.character-name {
+		h1 {
+			margin-top: 0;
+		}
 	}
 
 	.character-info {
@@ -66,14 +71,71 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-
-	& > * {
-		flex: 0 0 calc(50% - 10px);
-		margin-bottom: 20px;
-	}
 }
+	.stat {
+		display: flex;
+		flex: 0 0 calc(50% - 10px);
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		margin-bottom: 20px;
+		padding: 20px 20px 0;
+		border: 1px solid #eeeeee;
 
-.skills {}
+		.label {
+			font-size: 14px;
+			margin-bottom: 4px;
+		}
+
+		.ability-score-mod {
+			font-size: 24px;
+			margin-bottom: 10px;
+		}
+
+		.ability-score {
+			display: block;
+			background: white;
+			width: 50px;
+			font-size: 14px;
+			margin-bottom: -12px;
+			border: 1px solid #eeeeee;
+			border-radius: 100%;
+			text-align: center;
+			padding: 4px 0;
+		}
+	}
+
+.proficiencies {}
+	.proficiency-bonus,
+	.saving-throws,
+	.skills,
+	.passive-wisdom {
+		flex: 0 0 100%;
+		margin-bottom: 20px
+	}
+
+	.save,
+	.skill {
+		display: flex;
+		align-items: center;
+		margin-bottom: 10px;
+
+		& > * {
+			margin-bottom: 0;
+		}
+	}
+		.dot {
+			margin-right: 10px;
+		}
+		.mod {
+			flex: 0 0 32px;
+			margin-right: 10px;
+			border-bottom: 1px solid #eeeeee;
+			text-align: center;
+		}
+		.ability {
+			flex: 0 0 calc(100% - 62px);
+		}
 
 .proficiencies {}
 
