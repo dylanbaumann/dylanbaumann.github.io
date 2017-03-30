@@ -9,7 +9,7 @@ The party graduated from Neverwinter Tower Tech University and gathered around a
 
 - Sariel (High-Elf Rogue)
 - Mac (Dragonborne Bard)
-- Holth (Half-orc Fighter)
+- Holth (Half-orc Barbarian)
 - Flinty Stonebeard (Dwarf Paladin)
 - Thoggy (Gnome Ranger)
 - And Ben (who needs to make a character still)
