@@ -28,7 +28,7 @@ A brief ride later and they reached the edge of a large clearing surrounding the
 
 Sariel and Holth both crouched low to the ground and went opposite directions, attacking from both the left and right. As Sariel approached the first archer, a torch was lit and thrown at Sariel's feet, they'd been caught! Thinking fast, Mac the bard began jamming out on his harmonicarina (harmonica/ocarina hybrid) in an attempt to distract the guards. Sariel, hearing this music too, began pelvic-thrust dancing in a further attempt to distract the guards. The guards, not amused by the antics before them, readied their weapons as Holth jumped out from the darkness and offered up a surprise attack from the darkness. Unfortunately, Holth tripped on the steps of the wizard's stoop and fell on his face.
 
-Mac stopped playing his harmonicarina and sprinted to the tower's base, seeing that his dear friend Holth was in danger. Rearing his head back, Mac unleashed his primal dragonborne fury, spewing poison acid all over the would-be attackers... and his dear friend Holth who suffered near fatal amounts of burns across his back. Sariel took hold of the opportunity and quickly dispatched the remaining attackers while they were distracted by the acid that was ravaging their colleagues.
+Mac stopped playing his harmonicarina and sprinted to the tower's base, seeing that his dear friend Holth was in danger. Rearing his head back, Mac unleashed his primal dragonborne fury, spewing poison acid all over the would-be attackers... and his dear friend Holth. Boils appeared and the smell of burnt flesh filled the air as Holth suffered near fatal amounts of burns across his back. Sariel took hold of the opportunity and quickly dispatched the remaining attackers while they were distracted by the acid that was ravaging their colleagues.
 
 Mac felt terrible for the damage he'd inflicted onto his friend, Holth, and proceeded to imbue a melody with restorative powers, healing Holth's back and getting him back to fighting shape.
 
@@ -50,7 +50,6 @@ Thud.
 
 
 {% comment %}
+Link Structure:
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 {% endcomment %}
